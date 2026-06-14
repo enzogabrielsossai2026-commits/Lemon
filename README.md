@@ -13,7 +13,7 @@ end
 local config = {
     RequirePart = false,
     NoclipDuration = 2,
-    LaunchForce = 250,
+    LaunchForce = 275,
     FreezeDuration = 1,
     ParryRange = 4,
     Cooldown = 1,
